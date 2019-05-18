@@ -17,11 +17,13 @@ SELECT*FROM products;
 
 INSERT INTO products (item_id, product_name, department_name, price, stock_quantity)
 VALUES (1, "soundbar", "music", 100.00, 10),
-        (2, "portable monitor", "computers", 100.00, 12),
+        (2, "portable monitors", "computers", 100.00, 12),
         (3, "mechanical keyboard", "computers", 75.00,5),
         (4, "noise canceling headset", "music", 75.00,10),
         (5, "headphone jack adapter", "music", 10.00,20),
         (6, "LED light strip", "decor", 10.00,40),
         (7, "laptop skin", "computers", 25.00,30),
-        (8, "wireless mouse", "computers", 25.00,10);
+        (8, "wireless mouse", "computers", 25.00,10),
+        (9, "Hue lamp", "decor", 80.00,10),
+        (10, "Bamazon Becho Dot", "computers", 50.00,10);
         
