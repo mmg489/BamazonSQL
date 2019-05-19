@@ -17,7 +17,6 @@ They will then be asked the quantity of the item the selected item.
         The quantity in stock will also be updated on the table.
     If the item selected is not in stock, the customer will be notified that there is an insufficient quantity.
     
-    /Users/margaritamunoz/Desktop/Bamazon.gif
     
     Prerequisites:
     Node.JS
