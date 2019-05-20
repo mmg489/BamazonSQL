@@ -4,11 +4,11 @@ Bamazon is Node and MySQL application that functions like a storefront.
 
 <h2>To Begin:<h2>
 
-    <li>Clone Repo<li>
-    <li>Run 'NPM install' in terminal<li>
-    <li>Run 'Node Logic.JS'<li>
-    <li>Follow the prompts to interact with the application<li>
-    <li>To exit the application 'ctrl+c' <li>
+    Clone Repo
+    Run 'NPM install' in terminal
+    Run 'Node Logic.JS'
+    Follow the prompts to interact with the application
+    To exit the application 'ctrl+c'
 
 Logic.JS functions:
 <li>Running logic.JS will print the items available for purchase from the store.<li>
